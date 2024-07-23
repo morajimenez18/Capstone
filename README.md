@@ -51,4 +51,4 @@ This repository contains code and data used for a comprehensive analysis of Spac
 
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
 
-**Disclaimer:** This project is for educational and research purposes only. It does not represent official SpaceX data or analysis.
+**Disclaimer:** This project is for educational and research purposes only.
